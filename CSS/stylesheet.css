@@ -1,0 +1,53 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos do cabeçalho */
+  header {
+    background-color: #0b006d;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Estilos da navegação */
+  nav {
+    background-color: #0e008d;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav a{
+    color: white;
+    text-decoration: none;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #dedede;
+    text-decoration: none;
+  }
+  
+  /* Estilos do conteúdo principal */
+  main {
+    padding: 20px;
+  }
+  
+  /* Estilos do rodapé */
+  footer {
+    background-color: #221978;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+  }
